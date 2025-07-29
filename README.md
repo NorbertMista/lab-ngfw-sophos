@@ -20,15 +20,15 @@
 - Exclusion for aplicationn like Goodle Chrome (dl.google.com for download and update Google Chrome)
 
 ## Repositorium structure
-
+'''
 .
 ├── README.md
 ├── docs/
 │   └── screenshots/
 ├── config/
-│   └── white-lists/
-├── setup_notes.md
-└── future_todo.md
+    └── white-lists/
+
+'''
 
 ## To future implementation
 - ADD more URL
