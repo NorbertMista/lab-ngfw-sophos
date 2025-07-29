@@ -20,7 +20,7 @@
 - Exclusion for aplicationn like Goodle Chrome (dl.google.com for download and update Google Chrome)
 
 ## Repositorium structure
-'''
+```
 .
 ├── README.md
 ├── docs/
@@ -28,7 +28,7 @@
 ├── config/
     └── white-lists/
 
-'''
+```
 
 ## To future implementation
 - ADD more URL
