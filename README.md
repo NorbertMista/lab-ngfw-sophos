@@ -7,10 +7,10 @@
 - Learn network managment
 
 ## Technologies:
--**Proxmox VE** - Hypervisor
--**Sophos XG** - Virtual NGFW - home edytion
--**Windows 10 VM** - test client
--**AdGuard Home** - DNS implementation
+- **Proxmox VE** - Hypervisor
+- **Sophos XG** - Virtual NGFW - home edition
+- **Windows 10 VM** - test client
+- **AdGuard Home** - DNS implementation
 
 ## Main function and configuration
 - 'Deny All' - as default policy
