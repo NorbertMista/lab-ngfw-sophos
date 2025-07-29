@@ -21,11 +21,16 @@
 
 ## Repositorium structure
 
+.
 ├── README.md
 ├── docs/
-│ └── screenshots/
+│   └── screenshots/
 ├── config/
-│ └── white-lists/
+│   └── white-lists/
 ├── setup_notes.md
 └── future_todo.md
 
+## To future implementation
+- ADD more URL
+- log reporting
+- sctipt to massive certificate implementation
