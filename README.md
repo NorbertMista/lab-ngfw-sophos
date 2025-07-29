@@ -32,6 +32,7 @@
 
 ## To future implementation
 - add more screeshots of configuration
+- test download malvare files
 - add test case
 - add more URL
 - log reporting
