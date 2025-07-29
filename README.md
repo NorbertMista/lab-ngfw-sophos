@@ -17,4 +17,15 @@
 - 'Allow DNS', 'Allow HTTPS' - for chosen services
 - Web Filtering - white list URL
 - SSL Inspection and instalation sophos certificate
-- Exclusion for aplicationn like Goodle Chrome (dl.google.com for download and update Google Chrome) 
+- Exclusion for aplicationn like Goodle Chrome (dl.google.com for download and update Google Chrome)
+
+## Repositorium structure
+
+├── README.md
+├── docs/
+│ └── screenshots/
+├── config/
+│ └── white-lists/
+├── setup_notes.md
+└── future_todo.md
+
