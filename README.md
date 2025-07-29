@@ -31,6 +31,8 @@
 ```
 
 ## To future implementation
-- ADD more URL
+- add more screeshots of configuration
+- add test case
+- add more URL
 - log reporting
 - sctipt to massive certificate implementation
